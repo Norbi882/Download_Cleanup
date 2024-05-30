@@ -9,7 +9,7 @@ Features: </br>
 
 Usage:</br>
 - Ensure you have Python installed on your system.
-- Place the script in a directory of your choice.
+- Clone github repositorium in a directory of your choice.
 - Run the script using a Python interpreter.
 
 Prerequisites:</br>
