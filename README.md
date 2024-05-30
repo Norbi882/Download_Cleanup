@@ -1,5 +1,5 @@
-About:
-- This script is designed to organize your downloaded files by creating a structured directory on your desktop. It categorizes files from your Downloads folder into subfolders based on their file extensions and moves them to a newly created directory called Download_Sorted on your desktop. The script handles various file types, including audio, video, images, documents, compressed files, and installers, ensuring your downloads are neatly organized and easily accessible.
+About: </br>
+This script is designed to organize your downloaded files by creating a structured directory on your desktop. It categorizes files from your Downloads folder into subfolders based on their file extensions and moves them to a newly created directory called Download_Sorted on your desktop. The script handles various file types, including audio, video, images, documents, compressed files, and installers, ensuring your downloads are neatly organized and easily accessible.
 
 Features:
 - Automatically creates a Download_Sorted directory on your desktop.
