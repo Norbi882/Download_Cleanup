@@ -2,7 +2,7 @@ import os
 import collections
 from pprint import pprint
 
-# Extensions
+# Extensions for different file types
 EXT_AUDIO = ['mp3', 'wav', 'raw', 'wma', 'mid', 'midi']
 EXT_VIDEO = ['mp4', 'mpg', 'mpeg', 'avi', 'mov', 'flv', 'mkv', 'mwv', 'm4v', 'h264']
 EXT_IMAGES  = ['png', 'jpg', 'jpeg', 'gif', 'svg', 'bmp', 'psd', 'svg', 'tiff', 'tif']
