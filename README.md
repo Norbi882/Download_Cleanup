@@ -1,7 +1,4 @@
-hr.new1 {
-  border-top: 1px solid red;
-}
-<hr.new1> <b>About:</b> </hr.new1>
+<b>About:</b> 
 This script is designed to organize your downloaded files by creating a structured directory on your desktop. It categorizes files from your Downloads folder into subfolders based on their file extensions and moves them to a newly created directory called Download_Sorted on your desktop. The script handles various file types, including audio, video, images, documents, compressed files, and installers, ensuring your downloads are neatly organized and easily accessible.
 
 Features: </br>
